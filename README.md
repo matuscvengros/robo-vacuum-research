@@ -19,7 +19,7 @@ My wife asked which robot vacuum we should buy. Instead of opening 40 browser ta
 | File | Description |
 |------|-------------|
 | `Report.pdf` | 19-page verified comparison report |
-| `presentation.html` | 11-slide interactive presentation |
+| `index.html` | 11-slide interactive presentation |
 
 ## Tools Used
 
