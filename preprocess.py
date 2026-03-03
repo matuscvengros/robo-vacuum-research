@@ -5,7 +5,7 @@ import os
 from bs4 import BeautifulSoup
 import openpyxl
 
-BASE = "/Users/mako/Documents/RoboVacuumResearch"
+BASE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(BASE, "output")
 
 
