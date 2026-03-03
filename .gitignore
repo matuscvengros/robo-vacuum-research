@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# LaTeX auxiliary files
+output/*.aux
+output/*.log
+output/*.out
+output/*.toc
+output/*.fls
+output/*.fdb_latexmk
+output/*.synctex.gz
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
+
+resources/
+!resources/
+resources/**
+!resources/**/*.pdf
+!resources/**/
+
+output/
